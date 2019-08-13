@@ -583,5 +583,4 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     PowerOffAlarm \
     TimeService \
-    WfdCommon \
-    chargeonlymode
+    WfdCommon
